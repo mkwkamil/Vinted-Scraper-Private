@@ -1,0 +1,1 @@
+Vinted Search Bot is a tool designed for convenient searching on the Vinted platform for clothes that match your filters. The bot searches Vinted listings according to your chosen criteria and automatically sends new clothing finds here, allowing you to track the latest deals without manually browsing the website.

@@ -7,7 +7,7 @@ chat_ids = [5230025801, 994225316]
 # URLs to be scraped
 urls = [
     # MAN HOODIES(INC. NIKE, GAP, DICKIES, TNF, DIESEL, RALPH LAUREN) - LIMIT 35 PLN
-    "https://www.vinted.pl/catalog?catalog[]=79&price_to=35.0&currency=PLN&brand_ids[]=53&brand_ids[]=283953&brand_ids[]=5977&brand_ids[]=2703&brand_ids[]=6&brand_ids[]=65&brand_ids[]=88&brand_ids[]=430791&brand_ids[]=6962946&brand_ids[]=2319&brand_ids[]=161&search_id=16362572646&order=newest_first&size_ids[]=207&size_ids[]=208&size_ids[]=209&size_ids[]=210&size_ids[]=211&time=1726654462&page=1",
+    "https://www.vinted.pl/catalog?catalog[]=79&price_to=35.0&currency=PLN&brand_ids[]=53&brand_ids[]=283953&brand_ids[]=5977&brand_ids[]=2703&brand_ids[]=6&brand_ids[]=65&brand_ids[]=88&brand_ids[]=430791&brand_ids[]=6962946&brand_ids[]=2319&brand_ids[]=161&search_id=16362572646&order=newest_first&size_ids[]=208&size_ids[]=209&size_ids[]=210&size_ids[]=211&time=1726656005&page=1",
     # WOMAN HOODIES(INC. NIKE, GAP, DICKIES, TNF, DIESEL, RALPH LAUREN) - LIMIT 35 PLN
     "https://www.vinted.pl/catalog?catalog[]=13&price_to=35.0&currency=PLN&brand_ids[]=53&brand_ids[]=283953&brand_ids[]=5977&brand_ids[]=2703&brand_ids[]=6&brand_ids[]=65&brand_ids[]=88&brand_ids[]=430791&brand_ids[]=6962946&brand_ids[]=2319&brand_ids[]=161&search_id=16362572646&order=newest_first&size_ids[]=4&size_ids[]=5&size_ids[]=6&size_ids[]=7&time=1726655809&page=1",
     # MID LUXURY BRANDS(INC. STUSSY, CARHARTT) - LIMIT 100 PLN
